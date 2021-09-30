@@ -2,10 +2,12 @@
     display: flex;
     width: 100%;
     height: auto;
-    background-color: rgba(0, 0, 0, 0.92);
+    background-color: rgba(250, 250, 250, 0.8);
     flex-direction: row;
     position: fixed;
     z-index: 4;
+    backdrop-filter: saturate(180%) blur(20px);    
+
 }
 .image-container{
     flex-grow: 1;
@@ -20,7 +22,7 @@
     padding-left: 0px;
 }
 .headings{
-    color: azure;
+    color: black;
     flex-grow: 4;
     display: flex;
     padding-top: 4vh;
@@ -40,12 +42,11 @@ li {
   
 li {
     display: block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 16px;
     text-decoration: none;
-    font-size: 1.2em;
-    font-weight: bold;
+    font-size: 1.4em;
 }
 .mobile-menu{
     display: none;
@@ -78,7 +79,7 @@ li {
     justify-content: center;
     vertical-align: middle;
 }
-@media all and (max-width:950px){
+@media all and (max-width:965px){
     .headings{
         display: none !important;
     }
