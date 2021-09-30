@@ -1,0 +1,38 @@
+.container{
+    position: relative;
+    text-align: center;
+    color: honeydew;
+}
+.bg{
+    position:relative;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+}
+
+.bus{
+    position:absolute;
+    top: 25px;
+    left: 25px;
+    z-index: 2;
+    width: 50%;
+    top:50%;
+    left:70%;
+    transform: translate(-50%, -50%);
+    animation-name: drive;
+    animation-duration: 10s;
+    animation-fill-mode: backwards;
+    animation-iteration-count: infinite;
+}
+
+@keyframes drive{
+    0%{
+        left:70%;
+    }
+    50%{
+        left:30%;
+    }
+    100%{
+        left: 70%;
+    }
+}
