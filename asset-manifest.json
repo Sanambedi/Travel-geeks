@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/travel-geeks/static/css/main.52bb42f9.chunk.css",
+    "main.js": "/travel-geeks/static/js/main.2aec44c3.chunk.js",
+    "main.js.map": "/travel-geeks/static/js/main.2aec44c3.chunk.js.map",
+    "runtime-main.js": "/travel-geeks/static/js/runtime-main.72f24b8f.js",
+    "runtime-main.js.map": "/travel-geeks/static/js/runtime-main.72f24b8f.js.map",
+    "static/js/2.8374608c.chunk.js": "/travel-geeks/static/js/2.8374608c.chunk.js",
+    "static/js/2.8374608c.chunk.js.map": "/travel-geeks/static/js/2.8374608c.chunk.js.map",
+    "static/js/3.452adf64.chunk.js": "/travel-geeks/static/js/3.452adf64.chunk.js",
+    "static/js/3.452adf64.chunk.js.map": "/travel-geeks/static/js/3.452adf64.chunk.js.map",
+    "index.html": "/travel-geeks/index.html",
+    "static/css/main.52bb42f9.chunk.css.map": "/travel-geeks/static/css/main.52bb42f9.chunk.css.map",
+    "static/js/2.8374608c.chunk.js.LICENSE.txt": "/travel-geeks/static/js/2.8374608c.chunk.js.LICENSE.txt",
+    "static/media/bus.33940e16.webp": "/travel-geeks/static/media/bus.33940e16.webp",
+    "static/media/bus_back.737bea85.webp": "/travel-geeks/static/media/bus_back.737bea85.webp",
+    "static/media/travel-logo.079d3a19.png": "/travel-geeks/static/media/travel-logo.079d3a19.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72f24b8f.js",
+    "static/js/2.8374608c.chunk.js",
+    "static/css/main.52bb42f9.chunk.css",
+    "static/js/main.2aec44c3.chunk.js"
+  ]
+}
