@@ -30,7 +30,11 @@ export default function Upcoming(){
                 <h1>Upcoming Events</h1>    
             </div>
             <div className="carousel">
-                <Carousel 
+                <Carousel
+                infinite={true} 
+                keyBoardControl={true}
+                transitionDuration={500}
+                
                 responsive={responsive} >
                     <div><img src="https://picsum.photos/200/300" alt=""/></div>
                     <div><img src="https://picsum.photos/200/300" alt=""/></div>

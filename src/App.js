@@ -3,7 +3,7 @@ import Navbar from './elements/Navbar/Navbar';
 import Jumbotron from './elements/Jumbotron/Jumbotron';
 import Busanimation from './elements/BusAnime/Busanimation';
 import Upcoming from './elements/UpcomingEvents/Upcoming';
-
+import About from './elements/AboutSection/About';
 function App() {
   return (
     <div className="App">
@@ -11,6 +11,8 @@ function App() {
       <Jumbotron/>
       <Busanimation/>
       <Upcoming/>
+      <About/>
+
     </div>
   );
 }

@@ -1,0 +1,50 @@
+.about-us{
+    display: flex;
+    flex-direction: row;
+    padding-top: 10vh;
+    justify-content: center;
+    overflow: hidden;
+    padding-bottom: 5vh;
+}
+.main-img{
+    flex-grow: 1 !important;
+    justify-content: flex-end;
+}
+.image{
+    width: 30vw;
+}
+.about-para{
+    flex-grow: 1 !important;
+    overflow: hidden;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    text-align: left;
+}
+.main-style{
+    display: flex;
+    flex-direction: column;
+}
+.bgground{
+    height: 70vh;
+    width: 100%;
+    padding-bottom: 5vh;
+}
+.faq{
+    display: flex;
+    overflow: hidden;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 5vh;
+}
+.image-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.collapsible{
+    flex-grow: 1;
+}
+.image-space{
+    flex-grow: 1;
+}
