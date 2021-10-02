@@ -36,10 +36,10 @@ export default function Upcoming(){
                 transitionDuration={500}
                 
                 responsive={responsive} >
-                    <div><img src="https://picsum.photos/200/300" alt=""/></div>
-                    <div><img src="https://picsum.photos/200/300" alt=""/></div>
-                    <div><img src="https://picsum.photos/200/300" alt=""/></div>
-                    <div><img src="https://picsum.photos/200/300" alt=""/></div>
+                    <div><img src="https://picsum.photos/300/300" alt=""/></div>
+                    <div><img src="https://picsum.photos/300/300" alt=""/></div>
+                    <div><img src="https://picsum.photos/300/300" alt=""/></div>
+                    <div><img src="https://picsum.photos/300/300" alt=""/></div>
                 </Carousel>
             </div>
                 

@@ -1,0 +1,25 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+}
+.sample-images{
+    display: flex;
+    margin: 0%;
+    padding: 0%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+.image-sample{
+    width: 20%;
+}
+.main-footer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-image: linear-gradient(to right, rgba(8, 83, 245,0.5), rgb(50, 82, 187));
+}
+.footer-one{
+    flex-grow: 1;
+}
