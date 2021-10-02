@@ -16,7 +16,7 @@ export default function Upcoming(){
         },
         tablet: {
           breakpoint: { max: 1024, min: 464 },
-          items: 2
+          items: 1
         },
         mobile: {
           breakpoint: { max: 464, min: 0 },
@@ -36,10 +36,10 @@ export default function Upcoming(){
                 transitionDuration={500}
                 
                 responsive={responsive} >
-                    <div><img src="https://picsum.photos/300/300" alt=""/></div>
-                    <div><img src="https://picsum.photos/300/300" alt=""/></div>
-                    <div><img src="https://picsum.photos/300/300" alt=""/></div>
-                    <div><img src="https://picsum.photos/300/300" alt=""/></div>
+                    <div><img src="https://picsum.photos/200/300" alt=""/></div>
+                    <div><img src="https://picsum.photos/200/300" alt=""/></div>
+                    <div><img src="https://picsum.photos/200/300" alt=""/></div>
+                    <div><img src="https://picsum.photos/200/300" alt=""/></div>
                 </Carousel>
             </div>
                 

@@ -21,6 +21,8 @@ export default function About(){
                     magna aliqua. Ut enim ad minim veniam quis nostrud <br/>
                     exercitation.
                     </p>
+                    
+
                 </div>
             </div>
             <img src={bgground} alt="" className="bgground"/>

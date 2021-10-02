@@ -48,3 +48,30 @@
 .image-space{
     flex-grow: 1;
 }
+
+@media all and (max-width:1000px) {
+    .about-us{
+        display: flex;
+        flex-direction: column;
+        padding-top: 10vh;
+        justify-content: center;
+        overflow: hidden;
+        padding-bottom: 5vh;
+    }
+    .main-img{
+        width: 100%;
+    }
+    .image{
+        width:60vw;
+        height: auto;
+    }
+    .about-para{
+        flex-grow: 1 !important;
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+    }
+
+}
