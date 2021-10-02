@@ -25,7 +25,15 @@ export default function About(){
 
                 </div>
             </div>
-            <img src={bgground} alt="" className="bgground"/>
+            <div className="container-about-us">
+                <img src={bgground} alt="" className="bgground"/>
+                <div className="centre-about-us">
+                    <div className="customer-reviews">
+                        <h1>What Customers Say</h1>
+                        <p>"Let’s start your journey with us, your dream will come true. Lorem ipsum dolor sit amet, <br/>consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    </div>
+                </div>
+            </div>
             <div className="faq">
                 <p>
                     FAQ
@@ -39,7 +47,7 @@ export default function About(){
                         <img src={imageSpace} alt=""/>
                     </div>
                 </div>
-                <button>Hello</button>
+                <button className="button">Book Your Destination</button>
             </div>
         </div>
     )

@@ -26,7 +26,7 @@
     flex-direction: column;
 }
 .bgground{
-    height: 70vh;
+    height: 50vh;
     width: 100%;
     padding-bottom: 5vh;
 }
@@ -48,7 +48,22 @@
 .image-space{
     flex-grow: 1;
 }
-
+.container-about-us{
+    position: relative;
+    text-align: center;
+    color: black;
+}
+.customer-reviews{
+    display: flex;
+    flex-direction: column;
+}
+.centre-about-us{
+    overflow: hidden;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 @media all and (max-width:1000px) {
     .about-us{
         display: flex;
