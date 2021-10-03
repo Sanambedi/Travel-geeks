@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/travel-geeks/static/css/main.0e9d7a78.chunk.css",
-    "main.js": "/travel-geeks/static/js/main.8d350b8d.chunk.js",
-    "main.js.map": "/travel-geeks/static/js/main.8d350b8d.chunk.js.map",
+    "main.css": "/travel-geeks/static/css/main.e1ae564e.chunk.css",
+    "main.js": "/travel-geeks/static/js/main.398454cd.chunk.js",
+    "main.js.map": "/travel-geeks/static/js/main.398454cd.chunk.js.map",
     "runtime-main.js": "/travel-geeks/static/js/runtime-main.2738a96f.js",
     "runtime-main.js.map": "/travel-geeks/static/js/runtime-main.2738a96f.js.map",
     "static/css/2.c7b583c1.chunk.css": "/travel-geeks/static/css/2.c7b583c1.chunk.css",
@@ -12,12 +12,13 @@
     "static/js/3.f1362d3f.chunk.js.map": "/travel-geeks/static/js/3.f1362d3f.chunk.js.map",
     "index.html": "/travel-geeks/index.html",
     "static/css/2.c7b583c1.chunk.css.map": "/travel-geeks/static/css/2.c7b583c1.chunk.css.map",
-    "static/css/main.0e9d7a78.chunk.css.map": "/travel-geeks/static/css/main.0e9d7a78.chunk.css.map",
+    "static/css/main.e1ae564e.chunk.css.map": "/travel-geeks/static/css/main.e1ae564e.chunk.css.map",
     "static/js/2.d03e2a79.chunk.js.LICENSE.txt": "/travel-geeks/static/js/2.d03e2a79.chunk.js.LICENSE.txt",
     "static/media/about2.76c4029c.webp": "/travel-geeks/static/media/about2.76c4029c.webp",
     "static/media/bgground.174afcfa.jpg": "/travel-geeks/static/media/bgground.174afcfa.jpg",
     "static/media/bus.33940e16.webp": "/travel-geeks/static/media/bus.33940e16.webp",
     "static/media/bus_back.737bea85.webp": "/travel-geeks/static/media/bus_back.737bea85.webp",
+    "static/media/newLogo-removebg-preview.a5068e56.png": "/travel-geeks/static/media/newLogo-removebg-preview.a5068e56.png",
     "static/media/styles.css": "/travel-geeks/static/media/revicons.e8746a62.woff",
     "static/media/travel-friends.1319a79c.webp": "/travel-geeks/static/media/travel-friends.1319a79c.webp",
     "static/media/travel-logo.079d3a19.png": "/travel-geeks/static/media/travel-logo.079d3a19.png"
@@ -26,7 +27,7 @@
     "static/js/runtime-main.2738a96f.js",
     "static/css/2.c7b583c1.chunk.css",
     "static/js/2.d03e2a79.chunk.js",
-    "static/css/main.0e9d7a78.chunk.css",
-    "static/js/main.8d350b8d.chunk.js"
+    "static/css/main.e1ae564e.chunk.css",
+    "static/js/main.398454cd.chunk.js"
   ]
 }
