@@ -1,6 +1,6 @@
 import React from 'react';
 import "./Navbar.css";
-import logo from "../../resources/travel-logo.png";
+import logo from "../../resources/newLogo-removebg-preview.png";
 import { MdCall } from 'react-icons/md';
 import { FcMenu } from 'react-icons/fc';
 
