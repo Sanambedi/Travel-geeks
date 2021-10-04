@@ -44,10 +44,9 @@ export default function About(){
                         <h1>5 Collapsibles</h1>
                     </div>
                     <div className="image-space">
-                        <img src={imageSpace} alt=""/>
+                        <img src={imageSpace} alt="" className="feature-image"/>
                     </div>
                 </div>
-                <button className="button">Book Your Destination</button>
             </div>
         </div>
     )

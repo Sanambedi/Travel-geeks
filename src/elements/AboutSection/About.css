@@ -64,7 +64,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
-@media all and (max-width:1000px) {
+@media all and (max-width:1070px) {
     .about-us{
         display: flex;
         flex-direction: column;
@@ -72,6 +72,14 @@
         justify-content: center;
         overflow: hidden;
         padding-bottom: 5vh;
+    }
+    .image-section{
+        display: flex;
+        flex-direction: column;
+    }
+    .feature-image{
+        width: 90%;
+        align-items: center;
     }
     .main-img{
         width: 100%;

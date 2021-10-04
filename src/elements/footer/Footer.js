@@ -28,14 +28,6 @@ export default function Footer(){
                     <FaPinterest className="menu-button"/>
                 </div>
                 <div className="footer-one">
-                    <h1>Navigation</h1>
-                    <p>Home</p>
-                    <p>About</p>
-                    <p>Services</p>
-                    <p>Blog</p>
-                    <p>Contact</p>
-                </div>
-                <div className="footer-one">
                     <h1>Services</h1>
                     <p>Hotels</p>
                     <p>Trips</p>
