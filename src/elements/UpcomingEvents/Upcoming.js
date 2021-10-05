@@ -2,6 +2,7 @@ import React from 'react';
 import "./Upcoming.css";
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
+import Card from '../Card/Card';
 
 export default function Upcoming(){
     const responsive = {
@@ -36,10 +37,10 @@ export default function Upcoming(){
                 transitionDuration={500}
                 
                 responsive={responsive} >
-                    <div><img src="https://picsum.photos/200/300" alt=""/></div>
-                    <div><img src="https://picsum.photos/200/300" alt=""/></div>
-                    <div><img src="https://picsum.photos/200/300" alt=""/></div>
-                    <div><img src="https://picsum.photos/200/300" alt=""/></div>
+                    <div><Card cardImage="https://www.collinsdictionary.com/images/full/lake_281848937_1000.jpg"/></div>
+                    <div><Card cardImage="https://www.collinsdictionary.com/images/full/lake_281848937_1000.jpg"/></div>
+                    <div><Card cardImage="https://www.collinsdictionary.com/images/full/lake_281848937_1000.jpg"/></div>
+                    <div><Card cardImage="https://www.collinsdictionary.com/images/full/lake_281848937_1000.jpg"/></div>
                 </Carousel>
             </div>
                 
