@@ -30,7 +30,7 @@ export default function About(){
                 <div className="centre-about-us">
                     <div className="customer-reviews">
                         <h1>What Customers Say</h1>
-                        <p>"Let’s start your journey with us, your dream will come true. Lorem ipsum dolor sit amet, <br/>consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>"Let’s start your journey with us, your dream will come true. Lorem ipsum dolor sit amet,consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                     </div>
                 </div>
             </div>
