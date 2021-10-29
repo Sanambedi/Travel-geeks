@@ -3,6 +3,7 @@ import "./Navbar.css";
 import logo from "../../resources/newLogo-removebg-preview.png";
 import { MdCall } from 'react-icons/md';
 import { FcMenu } from 'react-icons/fc';
+import { Link } from 'react-router-dom';
 
 
 export default function Navbar(){
@@ -14,11 +15,13 @@ export default function Navbar(){
                 </div>
                 <div className="headings">
                     <ul className="nav-headings">
-                        <li>Home</li>
-                        <li>Events</li>
-                        <li>About</li>
-                        <li>Blog</li>
-                        <li>Contact</li>   
+                        <li>
+                            <Link className="nav-link" to="/">Home</Link>    
+                        </li>
+                        <li><Link to="/Events" className="nav-link">Events</Link></li>
+                        <li><Link to="/About" className="nav-link">About</Link></li>
+                        <li><Link to="/Blog" className="nav-link">Blog</Link></li>
+                        <li><Link to="/Contact" className="nav-link">Contact</Link></li>   
                         <li className="call-button">
                             <a href="tel:+917015024295" className="phoneLink"><MdCall className="callIcon"/> +91 70150 24295</a>
                         </li>

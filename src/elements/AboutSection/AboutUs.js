@@ -4,7 +4,7 @@ import travel from "../../resources/travel-friends.webp";
 import bgground from "../../resources/bgground.jpg";
 import imageSpace from "../../resources/about2.webp"
 
-export default function About(){
+export default function AboutUs(){
     return(
         <div className="main-style">
             <div className="about-us">

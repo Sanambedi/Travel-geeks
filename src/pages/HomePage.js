@@ -2,7 +2,7 @@ import Navbar from '../elements/Navbar/Navbar';
 import Jumbotron from '../elements/Jumbotron/Jumbotron';
 import Busanimation from '../elements/BusAnime/Busanimation';
 import Upcoming from '../elements/UpcomingEvents/Upcoming';
-import About from '../elements/AboutSection/About';
+import About from '../elements/AboutSection/AboutUs';
 import Footer from '../elements/footer/Footer';
 
 function HomePage() {

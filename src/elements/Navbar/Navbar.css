@@ -6,6 +6,10 @@
     color: black;
     background-color: black;
 }
+.nav-link{
+    text-decoration: none;
+    color: inherit;
+}
 .main-nav{
     display: flex;
     width: 100%;
