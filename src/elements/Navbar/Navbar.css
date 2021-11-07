@@ -16,7 +16,7 @@
     height: auto;
     background-color: rgba(250, 250, 250, 0.8);
     flex-direction: row;
-    position: fixed;
+    position: sticky;
     z-index: 2147483647;
     backdrop-filter: saturate(180%) blur(20px); 
     box-shadow: 0 10px 15px rgb(25 25 25 / 10%);   
