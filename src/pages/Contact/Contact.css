@@ -70,7 +70,7 @@
     width: 18vw;
     height: 3rem;
     padding-bottom: inherit;
-    margin-right: 2vw;
+    margin-right: 1vw;
 }
 .textarea2{
     resize: none;
@@ -83,4 +83,15 @@
     height: 3rem;
     padding-bottom: inherit;
     margin-left: 1vw;
+}
+.textarea3{
+    resize: none;
+    border: 1px solid #e5e6e9;
+    border-radius: 0;
+    padding-left: 18px;
+    font-size: 13px;
+    background: transparent;
+    width: 39.5vw;
+    height: 3rem;
+    padding-bottom: inherit;
 }

@@ -2,6 +2,7 @@ import React from 'react';
 import Navbar from '../../elements/Navbar/Navbar';
 import ContactBack from "../../resources/contact_back.webp";
 import "./Contact.css";
+import  Footer from "../../elements/footer/Footer";
 export default function Contact(){
     return(
         <div>
@@ -29,14 +30,24 @@ export default function Contact(){
                                 </div>
                                 <div style={{"height":"5vh"}}/> 
                                 <div className="contact-box">
-                                    <input type="text"></input>
+                                    <input type="text" className="textarea3" placeholder="Enter Subject"></input>
+                                </div>
+                                <div style={{"height":"5vh"}}/> 
+                                <div className="contact-box">
+                                    <button >Send</button>
                                 </div>
                             </div>
-                            <div className="right-box"></div>
+                            <div className="right-box">
+                                <div className="contact-box">
+                                    Space for icons
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
+            <div style={{"height":"5vh"}}/> 
+            <Footer/>
         </div>
     )
 }

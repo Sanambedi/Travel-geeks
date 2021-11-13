@@ -1,9 +1,9 @@
 import React from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
-import About from './pages/About';
+import About from './pages/About/About';
 import Blog from './pages/Blog';
 import Contact from './pages/Contact/Contact';
-import Events from './pages/Events';
+import Events from './pages/Events/Events';
 import HomePage from './pages/HomePage';
 
 const Routes = () =>{
