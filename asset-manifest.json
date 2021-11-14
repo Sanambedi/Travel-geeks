@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/travel-geeks/static/css/main.8142880e.chunk.css",
-    "main.js": "/travel-geeks/static/js/main.b79bf874.chunk.js",
-    "main.js.map": "/travel-geeks/static/js/main.b79bf874.chunk.js.map",
-    "runtime-main.js": "/travel-geeks/static/js/runtime-main.2e95e2ec.js",
-    "runtime-main.js.map": "/travel-geeks/static/js/runtime-main.2e95e2ec.js.map",
+    "main.css": "/travel-geeks/static/css/main.e36a797c.chunk.css",
+    "main.js": "/travel-geeks/static/js/main.a333fae2.chunk.js",
+    "main.js.map": "/travel-geeks/static/js/main.a333fae2.chunk.js.map",
+    "runtime-main.js": "/travel-geeks/static/js/runtime-main.71a14869.js",
+    "runtime-main.js.map": "/travel-geeks/static/js/runtime-main.71a14869.js.map",
     "static/css/2.c7b583c1.chunk.css": "/travel-geeks/static/css/2.c7b583c1.chunk.css",
-    "static/js/2.7c8cd2dd.chunk.js": "/travel-geeks/static/js/2.7c8cd2dd.chunk.js",
-    "static/js/2.7c8cd2dd.chunk.js.map": "/travel-geeks/static/js/2.7c8cd2dd.chunk.js.map",
-    "static/js/3.1edbc0e1.chunk.js": "/travel-geeks/static/js/3.1edbc0e1.chunk.js",
-    "static/js/3.1edbc0e1.chunk.js.map": "/travel-geeks/static/js/3.1edbc0e1.chunk.js.map",
+    "static/js/2.facc62fd.chunk.js": "/travel-geeks/static/js/2.facc62fd.chunk.js",
+    "static/js/2.facc62fd.chunk.js.map": "/travel-geeks/static/js/2.facc62fd.chunk.js.map",
+    "static/js/3.f71af785.chunk.js": "/travel-geeks/static/js/3.f71af785.chunk.js",
+    "static/js/3.f71af785.chunk.js.map": "/travel-geeks/static/js/3.f71af785.chunk.js.map",
     "index.html": "/travel-geeks/index.html",
     "static/css/2.c7b583c1.chunk.css.map": "/travel-geeks/static/css/2.c7b583c1.chunk.css.map",
-    "static/css/main.8142880e.chunk.css.map": "/travel-geeks/static/css/main.8142880e.chunk.css.map",
-    "static/js/2.7c8cd2dd.chunk.js.LICENSE.txt": "/travel-geeks/static/js/2.7c8cd2dd.chunk.js.LICENSE.txt",
+    "static/css/main.e36a797c.chunk.css.map": "/travel-geeks/static/css/main.e36a797c.chunk.css.map",
+    "static/js/2.facc62fd.chunk.js.LICENSE.txt": "/travel-geeks/static/js/2.facc62fd.chunk.js.LICENSE.txt",
+    "static/media/Volcano.1fa62047.webp": "/travel-geeks/static/media/Volcano.1fa62047.webp",
     "static/media/about2.76c4029c.webp": "/travel-geeks/static/media/about2.76c4029c.webp",
     "static/media/balloon.cce2d130.webp": "/travel-geeks/static/media/balloon.cce2d130.webp",
     "static/media/bgground.174afcfa.jpg": "/travel-geeks/static/media/bgground.174afcfa.jpg",
@@ -26,10 +27,10 @@
     "static/media/travel-logo.079d3a19.png": "/travel-geeks/static/media/travel-logo.079d3a19.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e95e2ec.js",
+    "static/js/runtime-main.71a14869.js",
     "static/css/2.c7b583c1.chunk.css",
-    "static/js/2.7c8cd2dd.chunk.js",
-    "static/css/main.8142880e.chunk.css",
-    "static/js/main.b79bf874.chunk.js"
+    "static/js/2.facc62fd.chunk.js",
+    "static/css/main.e36a797c.chunk.css",
+    "static/js/main.a333fae2.chunk.js"
   ]
 }
