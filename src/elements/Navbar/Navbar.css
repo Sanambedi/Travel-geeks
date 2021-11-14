@@ -1,10 +1,10 @@
+.hidden{
+    display: none;
+    transition: display ease 0.3s;
+}
 .mainest-nav{
     display: flex;
     flex-direction: column;
-}
-.bottom-nav{
-    color: black;
-    background-color: black;
 }
 .nav-link{
     text-decoration: none;
@@ -64,7 +64,7 @@ li:hover{
     color:blue;
     transition: 1s;
 }
-.mobile-menu{
+.mobile-menu-button{
     display: none;
     color: #FFF;
     font-size: 2em;
@@ -81,7 +81,15 @@ li:hover{
     display: inline-block!important;
     text-align: center;
     justify-content: center;
-    
+}
+.call-button2{
+    background-color: #c59e10;;
+    padding:10px 13px;
+    border-radius: 5px;
+    margin:0;
+    display: inline-block!important;
+    text-align: center;
+    justify-content: center;
 }
 .phoneLink{
     text-decoration:none;
@@ -95,17 +103,32 @@ li:hover{
     justify-content: center;
     vertical-align: middle;
 }
-
+.mobile-menu{
+    display: none;
+}
 @media all and (max-width:1070px){
     .headings{
         display: none !important;
+    }
+    .mobile-menu{
+        display: flex;
+        flex-direction: column;
+    }
+    .bottom-nav{
+        color: honeydew;
+        display: flex;
+        flex-direction: row;
+        padding-left: 2em;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        background-color: gray;
     }
     .image-container{
         display: flex;
         justify-content: flex-start;
         padding-left: 20px;
     }
-    .mobile-menu{
+    .mobile-menu-button{
         display: flex;
         color: #FFF;
         font-size: 2em;
