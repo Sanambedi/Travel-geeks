@@ -1,0 +1,131 @@
+.backpoint{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+.about-us{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3vh;
+}
+.image{
+    flex-grow: 1;
+    height: inherit;
+}
+.about-para{
+    display: flex;
+    flex-direction:row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: left;
+}
+.mini-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.main-paragraph4-aboutus{
+    color: #7ea0ff;
+}
+.main-paragraph1-aboutus{
+    color: #00095e;
+    font-family: "Josefin Sans";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 61px;
+}
+
+.main-style{
+    display: flex;
+    flex-direction: column;
+}
+.faq{
+    display: flex;
+    overflow: hidden;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 5vh;
+}
+.image-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.collapsible{
+    flex-grow: 1;
+}
+.image-space{
+    flex-grow: 1;
+}
+
+
+@media all and (max-width:1070px) {
+    
+    .image-section{
+        display: flex;
+        flex-direction: column;
+    }
+    .feature-image{
+        width: 90%;
+        align-items: center;
+    }
+}
+.wrapper {
+    position:relative;
+    width:100%;
+    max-width:1200px;
+    height:100%;
+    min-height:320px;
+    margin-bottom: 30vh;
+}
+.divimage {  position:absolute;
+    top:0;
+    left:0;
+    width:99vw;
+    height:60vh;
+    background:url(https://preview.colorlib.com/theme/tralive/assets/img/gallery/section_bg1.jpg.webp);
+    background-repeat:no-repeat;
+    background-size:100% auto;
+}
+.divtext {
+    position:absolute;
+    top:-50%;
+    left:30%;
+    width:100%;
+    padding-top:13.5%;  
+    text-align:center;
+    color:white;
+    font-family:arial;
+}
+.customer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 10vh;
+}
+.customer-further{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    text-align: left;
+    margin-left: 15px;
+}
+.ceo-organization{
+    font-size: 20px;
+    font-weight: bolder;
+    margin-bottom: 0;
+}
+.organization{
+    font-size: 15px;
+}
+@media (min-width: 1200px) {
+    .divtext{
+      font-size:60px;
+    }
+}
